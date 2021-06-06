@@ -21,7 +21,8 @@
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-
+        <sonar.host.url>http://13.233.154.222:9000/</sonar.host.url>
+		<sonar.login>147f1be601b7a750c55b3a57238997cff3885e15</sonar.login>
         <hibernate.version>5.2.10.Final</hibernate.version>
         <hsqldb.version>2.3.5</hsqldb.version>
         <logback.version>1.2.3</logback.version>
